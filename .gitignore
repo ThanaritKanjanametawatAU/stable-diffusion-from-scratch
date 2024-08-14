@@ -1,0 +1,5 @@
+/.idea
+/venv
+
+/sd-inference/data
+/sd-inference/images
